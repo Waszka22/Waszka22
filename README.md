@@ -14,14 +14,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hi there 👋
-===================================
+___
 
 * 🌍  I'm based in Dublin
 * ✉️  You can contact me at [G00425682@atu.ie](mailto:G00425682@atu.ie)
 * 🧠  I'm learning Python
 
-  
-===================================
+___
 
 ### Skills
 
