@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 Hi there 👋 My name is Agnieszka Waszczuk
 ===================================
 
-Data Analytics
---------------
 
 I am a student in ATU - completing the Higher Diploma in Science in Computing in Data Analytics. I have been working on various projects related to my coursework, some of which can be found in the following repositories.
 
