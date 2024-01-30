@@ -19,6 +19,8 @@ Hi there 👋
 * 🌍  I'm based in Dublin
 * ✉️  You can contact me at [G00425682@atu.ie](mailto:G00425682@atu.ie)
 * 🧠  I'm learning Python
+
+  
 ===================================
 
 ### Skills
