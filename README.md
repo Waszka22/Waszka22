@@ -38,5 +38,6 @@ data points within the well-known iris flower dataset associated with Ronald A. 
 * <em><strong>Programming-for-Data-Analysis-Project</strong></em> Simulating a real-world phenomenon a dataset using Python's numpy.random module. 
 * <em><strong>Fundamentals-of-Data-Analysis</strong></em>
 * <em><strong>Programming-and-Scripting-Project</strong></em>
+* <em><strong>Programming and Scripting-Task</strong></em>
 
 
