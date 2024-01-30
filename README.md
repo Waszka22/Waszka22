@@ -34,6 +34,7 @@ Hi there 👋
 I am a student in ATU - completing the <em><strong>Higher Diploma in Science in Computing in Data Analytics</strong></em>. I have been working on various projects related to my coursework, some of which can be found in the following repositories.
 
 * <em><strong>Fundamentals-of-Data-Analysis-Project</strong></em>
-
-
+* <em><strong>Programming-for-Data-Analysis-Simulation-Project</strong></em>
+* <em><strong>Fundamentals-of-Data-Analysis-Tasks</strong></em>
+* <em><strong>Programming-and-Scripting-Project</strong></em>
 
