@@ -1,4 +1,4 @@
-<img src="datapic.s.JPG" style="width:1128px; height:191px"/>
+
 <!--
 **Waszka22/Waszka22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
