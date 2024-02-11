@@ -2,7 +2,8 @@
 <!--
 **Waszka22/Waszka22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![Alt text](datapic.png)
+![Alt text](datapic.png)![datapic](https://github.com/Waszka22/Waszka22/assets/124098673/f78424f2-0e19-4f22-b7e2-8271ba517c91)
+
 
 Here are some ideas to get you started:
 
