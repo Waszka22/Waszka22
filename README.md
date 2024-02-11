@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 Hi there 👋
 
-I am a student in ATU - completing the <em><strong>Higher Diploma in Science in Computing in Data Analytics</strong></em>. I have been working on various projects related to my coursework, some of which can be found in the following repositories.
+I am a student in Atlantic Technological University - completing the <em><strong>Higher Diploma in Science in Computing in Data Analytics</strong></em>. I have been working on various projects related to my coursework, some of which can be found in the following repositories.
 
 * <em><strong>Fundamentals-of-Data-Analysis-Project</strong></em> The project involves creating a notebook examining variables and
 data points within the well-known iris flower dataset associated with Ronald A. Fisher.
